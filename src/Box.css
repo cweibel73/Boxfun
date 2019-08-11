@@ -1,0 +1,70 @@
+.black {
+    background-color: black;
+}
+
+.box {
+    height: 200px;
+    width: 12%;
+    display: inline-block;
+}
+
+.turquoise {
+    background-color:turquoise;
+}
+
+.magenta {
+    background-color: magenta;
+}
+
+.pink {
+    background-color: pink;
+}
+
+.beige {
+    background-color:beige;
+}
+
+.gold {
+    background-color: gold;
+}
+
+.orangered {
+    background-color: orangered;
+}
+
+.greenyellow {
+    background-color: greenyellow;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.purple {
+    background-color: purple;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.red {
+    background-color: red;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.brown {
+    background-color: brown;
+}
+
+.grey {
+    background-color: grey;
+}
+
